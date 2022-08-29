@@ -11,4 +11,5 @@ I have used below libraries :
     7)pip install pyaudio
     
   To use this code efficiently you need to install above mentioned packages
-  ![Screenshot Output_1](https://user-images.githubusercontent.com/111580148/187072212-0b9b72f0-9477-4d15-a84d-405ec1daa11a.png)
+![Screenshot Output_3](https://user-images.githubusercontent.com/111580148/187222809-7e1f3e90-b0d4-4cc7-9a48-e58d2a208515.png)
+
