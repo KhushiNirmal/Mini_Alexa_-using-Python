@@ -161,22 +161,7 @@ def run_alexa():
             webbrowser.get().open(url)
             print('Here is the location of '+loc)
             engine_talk('Here is the location of '+loc)
-        elif 'bootcamps' in command :
-            search = 'http://tathastu.twowaits.in/index.html#courses'
-            engine_talk('opening boot camps')
-            webbrowser.open(search)
-        elif 'boot camps' in command :
-            search = 'http://tathastu.twowaits.in/index.html#courses'
-            engine_talk('opening boot camps')
-            webbrowser.open(search)
-        elif 'python bootcamp' in command :
-            search = 'http://tathastu.twowaits.in/kickstart_python.html'
-            engine_talk('showing pythonboot camp')
-            webbrowser.open(search)
-        elif 'data science bootcamp' in command :
-            search = 'http://tathastu.twowaits.in/kickstart_data_science.html'
-            engine_talk('showing data science and ml bootcamp')
-            webbrowser.open(search)
+        
         elif 'open google' in command :
             print('opening google ...')
             engine_talk('opening google..')
